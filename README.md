@@ -57,15 +57,22 @@ JavaScript (Vanilla JS) – Interactivity (filters, dynamic elements)
 
 editkaro-portfolio/
 │
-├── index.html       # Main HTML file
-├── style.css        # CSS styling
-├── script.js        # JavaScript functionality
+├── index.html 
+# Main HTML file
+├── style.css     
+# CSS styling
+├── script.js    
+# JavaScript functionality
 │
-├── images/          # Project images (logos, thumbnails, etc.)
-├── videos/          # (Optional) Sample/demo videos
+├── images/      
+# Project images (logos, thumbnails, etc.)
+├── videos/       
+# (Optional) Sample/demo videos
 │
-├── README.md        # Project documentation
-└── .gitignore       # Ignored files
+├── README.md       
+# Project documentation
+└── .gitignore      
+# Ignored files
 
 
 ---
