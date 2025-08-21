@@ -79,8 +79,8 @@ editkaro-portfolio/
 
 🌍 Deployment
 
-The project is deployed using GitHub Pages.
-🔗 Live Demo: Click Here
+The project is deployed using GitHub Page
+🔗 **Live Demo:** [Click Here](https://github.com/Monisha725/Editkaro-portfolio.git)
 
 
 ---
